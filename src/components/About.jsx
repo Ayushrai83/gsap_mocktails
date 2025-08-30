@@ -45,6 +45,13 @@ const About = () => {
 			 <p className="md:text-3xl text-xl font-bold">
 				<span>4.5</span>/5
 			 </p>
+			 <span className="inline-flex items-center ml-3 align-middle space-x-2">
+                <img src="/images/profile1.png" alt="profile 1" className="w-8 h-8 rounded-full border-2 border-white -ml-2 first:ml-0" />
+                <img src="/images/profile2.png" alt="profile 2" className="w-8 h-8 rounded-full border-2 border-white -ml-2" />
+                <img src="/images/profile3.png" alt="profile 3" className="w-8 h-8 rounded-full border-2 border-white -ml-2" />
+                <img src="/images/profile4.png" alt="profile 3" className="w-8 h-8 rounded-full border-2 border-white -ml-2" />
+                <img src="/images/right-arrow.png" alt="profile 3" className="w-8 h-8 rounded-full border-2 border-white -ml-2" />
+             </span>
 			 <p className="text-sm text-white-100">
 				More than +12000 customers
 			 </p>
